@@ -1,1 +1,1 @@
-# ADEREPO
+my-testrepo
